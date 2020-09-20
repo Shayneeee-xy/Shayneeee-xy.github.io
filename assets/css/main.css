@@ -172,6 +172,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
+		text-indent: 2em;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -3248,15 +3249,15 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-color: #9cb4c2;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #3e4094;
+			background-color: #5d6e8a;
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #d892ac;
 		}
 
 		.wrapper.style3-alt {
@@ -3535,6 +3536,7 @@ input, select, textarea {
 		top: 0;
 		width: 18em;
 		z-index: 10000;
+		/* background-image: url(images/pic_sidebar.jpg), linear-gradient(rgba(0,0,0,0.5) rgba(0,0,0,0.5));  */
 	}
 
 		#sidebar > .inner {
