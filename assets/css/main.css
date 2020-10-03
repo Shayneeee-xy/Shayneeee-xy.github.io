@@ -3903,7 +3903,7 @@ input, select, textarea {
 		background-image: linear-gradient(to right, rgba(49,36,80,1), rgba(255,255,255,0)), url("images/pic_bg.jpg"); 
 		background-position: top right;
 		background-repeat: no-repeat;
-		background-size: auto;
+		background-size: 100%;
 	}
 
 		#intro p {
